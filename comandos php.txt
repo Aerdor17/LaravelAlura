@@ -1,0 +1,5 @@
+COMANDO PARA INICIAR UM SERVIDOR PHP
+php artisan serve
+
+CRIA UM PROJETO LARAVEL ATRAVEZ DO COMPOSER
+composer create-project --prefer-dist laravel/laravel blog "5.8.*"
